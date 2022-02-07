@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F43321527B1806800334AC9 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F43321427B1806800334AC9 /* SwiftyJSON.swift */; };
 		3F6185CA27AC3F520025330A /* API_CallingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6185C927AC3F520025330A /* API_CallingApp.swift */; };
 		3F6185CC27AC3F520025330A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6185CB27AC3F520025330A /* ContentView.swift */; };
 		3F6185CE27AC3F590025330A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F6185CD27AC3F590025330A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F43321427B1806800334AC9 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		3F6185C627AC3F520025330A /* API Calling.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "API Calling.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F6185C927AC3F520025330A /* API_CallingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_CallingApp.swift; sourceTree = "<group>"; };
 		3F6185CB27AC3F520025330A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				3F6185CB27AC3F520025330A /* ContentView.swift */,
 				3F6185CD27AC3F590025330A /* Assets.xcassets */,
 				3F6185D227AC3F590025330A /* Info.plist */,
+				3F43321427B1806800334AC9 /* SwiftyJSON.swift */,
 				3F6185CF27AC3F590025330A /* Preview Content */,
 			);
 			path = "API Calling";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F43321527B1806800334AC9 /* SwiftyJSON.swift in Sources */,
 				3F6185CC27AC3F520025330A /* ContentView.swift in Sources */,
 				3F6185CA27AC3F520025330A /* API_CallingApp.swift in Sources */,
 			);
